@@ -1,0 +1,15 @@
+# IDE Settings
+.idea/*
+.vscode/*
+
+__pycache__/
+
+# ARPALData R Workspace and Library
+ARPALData/*
+.Rproj.user
+
+
+
+
+
+
